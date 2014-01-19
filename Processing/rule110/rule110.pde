@@ -1,7 +1,6 @@
-
 Cell[][] grid;
 
-int gridSize=10;
+int gridSize=2;
 int screenWidth=600;
 int screenHeight=600;
 int cols = screenWidth/gridSize;
